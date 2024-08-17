@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+alloy = "0.2.1"
+ethers = "2.0.14"
+serde = "1.0.208"
